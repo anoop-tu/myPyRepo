@@ -1,2 +1,0 @@
-# myPyRepo
-My Python learing
